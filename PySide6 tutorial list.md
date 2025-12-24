@@ -1,9 +1,3 @@
-## ChatGPT Replied:
-
-Perfect 🔥 — here’s a **complete PySide6 A–Z learning roadmap** (from absolute beginner → professional desktop app developer).  
-It’s structured like a **tutorial list**, with topics grouped by difficulty and practical order of learning.
-
-* * *
 
 🧭 **A–Z PySide6 Learning Roadmap**
 -----------------------------------
@@ -300,8 +294,4 @@ It’s structured like a **tutorial list**, with topics grouped by difficulty an
 
 * * *
 
-Would you like me to **turn this list into a visual course roadmap** (with progress boxes, project ideas, and practical exercises for each section)?  
-👉 I can make it as a **PDF roadmap or Notion-style outline** for you.
-
----
 
